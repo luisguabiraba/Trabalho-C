@@ -40,7 +40,7 @@ Para executar:
 
 O programa pedirá o RGM como entrada e imprimirá na tela uma tabela CSV com os resultados das métricas.
 
-4. Política de contagem
+## 4. Política de contagem
 
 Cada comparação entre elementos conta como 1 passo.
 Cada troca ou movimentação de elemento conta como 1 passo.
@@ -58,7 +58,7 @@ Repetições
 
 Cada teste é executado 5 vezes e o valor reportado é a média.
 
-5. Resultados 
+## 5. Resultados 
 metodo	N	caso	passos	tempo_ms
 bubble	7	rgm	21	0.002
 insertion	7	rgm	15	0.001
@@ -75,7 +75,7 @@ quick	10000	aleatorio	51200	70.5
 
 Os valores são simulados para ilustração; os resultados reais devem ser obtidos executando o programa 5 vezes para cada caso e tirando a média.
 
-6. Discussão 
+## 6. Discussão 
 
 Todos os algoritmos ordenaram corretamente os dígitos do RGM e os vetores aleatórios.
 Quick Sort se destacou com menor número de passos e tempo para vetores grandes.
