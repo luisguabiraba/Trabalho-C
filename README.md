@@ -2,7 +2,8 @@
 
 ## 1. Descrição do problema
 
-Neste projeto, o objetivo foi ordenar os dígitos do meu RGM usando três algoritmos diferentes de ordenação e comparar seu desempenho em termos de **número de passos (comparações + trocas)** e **tempo de execução**. Além disso, realizamos um benchmark com vetores aleatórios de tamanhos variados (N = 100, 1000 e 10000) para observar como cada algoritmo se comporta em diferentes cenários.
+*Neste projeto, o objetivo foi ordenar os dígitos do meu RGM usando três algoritmos diferentes de ordenação e comparar seu desempenho em termos de **número de passos (comparações + trocas)** e **tempo de execução**. Além disso, realizamos um benchmark com vetores aleatórios de tamanhos variados (N = 100, 1000 e 10000) para observar como cada algoritmo se comporta em diferentes cenários.*
+
 ---
 
 ## 2. Métodos implementados
