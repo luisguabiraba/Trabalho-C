@@ -30,7 +30,7 @@
 
 Para compilar o programa:
 
-```bash
+bash
 gcc -O1 -std=c11 ordenacao_rgm.c -o ordena
 
 
@@ -38,7 +38,7 @@ Para executar:
 
 ./ordena
 
-O programa pedirá o RGM como entrada e imprimirá na tela uma tabela CSV com os resultados das métricas.```
+O programa pedirá o RGM como entrada e imprimirá na tela uma tabela CSV com os resultados das métricas.
 
 4. Política de contagem
 
