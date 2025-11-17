@@ -38,7 +38,7 @@ Para executar:
 
 ./ordena
 
-O programa pedirá o RGM como entrada e imprimirá na tela uma tabela CSV com os resultados das métricas.
+O programa pedirá o RGM como entrada e imprimirá na tela uma tabela CSV com os resultados das métricas.```
 
 4. Política de contagem
 
